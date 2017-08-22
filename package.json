@@ -1,0 +1,27 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yongheng2016/webpack.git"
+  },
+  "author": "yongheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongheng2016/webpack/issues"
+  },
+  "homepage": "https://github.com/yongheng2016/webpack#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "css-loader": "^0.28.5",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.5"
+  }
+}
