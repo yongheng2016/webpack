@@ -18,7 +18,7 @@ module.exports = {
     //hash
     // hashDigestLength: 3,
     //导出文件
-    filename: '_[name].js',
+    filename: '[name].js',
   },
   resolve: {
     alias: {
