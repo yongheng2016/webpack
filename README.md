@@ -7,3 +7,5 @@ git clone git@github.com:yongheng2016/webpack-demo.git
 ```
 npm run build
 ```
+## view
+[demo](https://yongheng2016.github.io/webpack-demo/)
